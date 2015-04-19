@@ -4,7 +4,7 @@
 runtime macros/matchit.vim
 
 " pathogen.vim for installing nifty stuffs
-runtime bundle/vim-pathogen/autoload/pathogen.vim
+" runtime ~/.vim/bundle/vim-pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 
 syntax enable
